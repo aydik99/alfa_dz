@@ -1,0 +1,31 @@
+.news {
+    border: 1px solid #f2f2f2;
+    margin: 20px 0 0 0;
+	box-shadow: 0 0 5px;
+	text-align: center;
+}
+
+input 
+{
+	margin: 0 20px;
+}
+
+span 
+{
+	color: #ff0000;
+}
+
+button 
+{
+	margin-left: 10px;
+}
+
+
+.news img
+{
+	width: 100px;
+	height: 80px;
+	float: left;
+	padding: 5px;
+	border-radius: 10px;
+}
